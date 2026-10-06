@@ -69,15 +69,15 @@ content/
 │   |   └── dog2.jpg
 │   └── feature.jpg
 ├── bridge.jpg           <-- site thumbnail (OpenGraph, etc.)
-└── nature/
+└── artist2/
     ├── index.md         <-- contains `cover: true` for `tree.jpg`
-    ├── nature1.jpg
-    ├── nature2.jpg
+    ├── artist21.jpg
+    ├── artist22.jpg
     └── tree.jpg         <-- album thumbnail
 ```
 
 - `/about.md` is not a Page Bundle and does not have image resources. It is not displayed in the album list.
-- `/nature` is a Leaf Bundle (has `index.md` and no children) => displayed as gallery (`single` layout).
+- `/artist2` is a Leaf Bundle (has `index.md` and no children) => displayed as gallery (`single` layout).
 - `/animals` is a Branch Bundle (has `_index.md` and has children) => displayed as album list (`list` layout).
 - The image resource with `*feature*` in its name or the first image found is used as thumbnail image for album lists.
 - Albums without an image are not shown.
@@ -101,7 +101,7 @@ By default, the cover image of an album is the first image in its folder. To sel
 
 ```plain
 ---
-title: Nature
+title: Artist Two
 resources:
   - src: tree.jpg
     params:
@@ -113,9 +113,9 @@ You can hide images from the gallery and use them only as cover image:
 
 ```plain
 ---
-title: Nature
+title: Artist Two
 resources:
-  - src: nature-cover.jpg
+  - src: artist2-cover.jpg
     params:
       cover: true
       hidden: true
@@ -174,7 +174,7 @@ content/dogs/index.md:
 ---
 date: 2023-01-12
 title: Dogs
-categories: ["animals", "nature"]
+categories: ["animals", "artist2"]
 resources:
   - src: dogs-title-image.jpg
     params:

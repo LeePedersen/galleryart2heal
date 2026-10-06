@@ -11,7 +11,7 @@
     <copyright>© Your Name</copyright>
     <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0200</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Fashion &amp; Beauty</title>
+      <title>Artist One</title>
       <link>//localhost:1313/fashion-beauty/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Your Name)</author>
       <guid>//localhost:1313/fashion-beauty/</guid>
@@ -21,10 +21,15 @@
           &lt;p&gt;Fashion and Beauty are a powerful form of self-expression. This category documents style through inspiring shots of street fashion, skincare products, avant-garde editorial photographs, and more.&lt;/p&gt;
         </description></item>
     <item>
-      <title>Nature</title>
-      <link>//localhost:1313/nature/</link>
+      <title>Artist2</title>
+      <link>//localhost:1313/artist2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Your Name)</author>
-      <guid>//localhost:1313/nature/</guid><description>Through photography, the beauty of Mother Nature can be frozen in time. This category celebrates the magic of our planet and beyond — from the immensity of the great outdoors, to miraculous moments in your own backyard.</description></item>
+      <guid>//localhost:1313/artist2/</guid>
+        <media:content url="//localhost:1313/artist2/lilyPainting_hu_734a4e58fac1c5e5.jpeg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/artist2/lilyPainting_hu_734a4e58fac1c5e5.jpeg&quot; /&gt;
+          &lt;p&gt;Through photography, the beauty of Mother Artist Two can be frozen in time. This category celebrates the magic of our planet and beyond — from the immensity of the great outdoors, to miraculous moments in your own backyard.&lt;/p&gt;
+        </description></item>
     <item>
       <title>Cats</title>
       <link>//localhost:1313/animals/cats/</link>
