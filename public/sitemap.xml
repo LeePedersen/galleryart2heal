@@ -2,32 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/animals/</loc>
+    <loc>/animals/</loc>
     <lastmod>2023-04-01T00:00:00-06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/artist1/</loc>
+    <loc>/artist1/</loc>
   </url><url>
-    <loc>//localhost:1313/artist2/</loc>
+    <loc>/artist2/</loc>
   </url><url>
-    <loc>//localhost:1313/categories/animals/</loc>
+    <loc>/categories/animals/</loc>
     <lastmod>2023-04-01T00:00:00-06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/artist2/</loc>
+    <loc>/categories/artist2/</loc>
     <lastmod>2023-04-01T00:00:00-06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/animals/cats/</loc>
+    <loc>/animals/cats/</loc>
     <lastmod>2023-04-01T00:00:00-06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/</loc>
+    <loc>/</loc>
     <lastmod>2023-04-01T00:00:00-06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/animals/dogs/</loc>
+    <loc>/animals/dogs/</loc>
     <lastmod>2023-01-12T00:00:00-07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/artist1/</loc>
+    <loc>/categories/artist1/</loc>
   </url><url>
-    <loc>//localhost:1313/contact/</loc>
+    <loc>/contact/</loc>
   </url><url>
-    <loc>//localhost:1313/imprint/</loc>
+    <loc>/imprint/</loc>
   </url>
 </urlset>
