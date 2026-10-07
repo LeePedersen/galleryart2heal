@@ -1,10 +1,10 @@
 ---
 layout: prose
 rss_ignore: true
-title: About
+title: Contact
 menu:
   main:
     weight: 90
 ---
 
-This is a demonstration site for the Hugo Gallery theme.
+Contact email@email.com if you are interested in donating your art to be a part of this project.
