@@ -1,3 +1,4 @@
+baseURL = 'https://www.hoshdodii.com'
 copyright = "© Your Name"
 defaultContentLanguage = "en"
 disableKinds = ["taxonomy"]

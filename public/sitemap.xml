@@ -2,32 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/animals/</loc>
+    <loc>https://www.hoshdodii.com/animals/</loc>
     <lastmod>2023-04-01T00:00:00-06:00</lastmod>
   </url><url>
-    <loc>/artist1/</loc>
+    <loc>https://www.hoshdodii.com/artist1/</loc>
   </url><url>
-    <loc>/artist2/</loc>
+    <loc>https://www.hoshdodii.com/artist2/</loc>
   </url><url>
-    <loc>/categories/animals/</loc>
+    <loc>https://www.hoshdodii.com/categories/animals/</loc>
     <lastmod>2023-04-01T00:00:00-06:00</lastmod>
   </url><url>
-    <loc>/categories/artist2/</loc>
+    <loc>https://www.hoshdodii.com/categories/artist2/</loc>
     <lastmod>2023-04-01T00:00:00-06:00</lastmod>
   </url><url>
-    <loc>/animals/cats/</loc>
+    <loc>https://www.hoshdodii.com/animals/cats/</loc>
     <lastmod>2023-04-01T00:00:00-06:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>https://www.hoshdodii.com/</loc>
     <lastmod>2023-04-01T00:00:00-06:00</lastmod>
   </url><url>
-    <loc>/animals/dogs/</loc>
+    <loc>https://www.hoshdodii.com/animals/dogs/</loc>
     <lastmod>2023-01-12T00:00:00-07:00</lastmod>
   </url><url>
-    <loc>/categories/artist1/</loc>
+    <loc>https://www.hoshdodii.com/categories/artist1/</loc>
   </url><url>
-    <loc>/contact/</loc>
+    <loc>https://www.hoshdodii.com/contact/</loc>
   </url><url>
-    <loc>/imprint/</loc>
+    <loc>https://www.hoshdodii.com/imprint/</loc>
   </url>
 </urlset>
