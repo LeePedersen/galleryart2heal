@@ -3,14 +3,14 @@ defaultContentLanguage = "en"
 disableKinds = ["taxonomy"]
 enableRobotsTXT = true
 languageCode = "en"
-timeZone = "Europe/Berlin"
+timeZone = "America/Denver"
 timeout = "120s"
 title = "Gallery"
 
 [params]
-  defaultTheme = "dark"
-  description = "Example site for hugo-theme-gallery"
-  title = "My Gallery"
+  defaultTheme = "light"
+  description = "Ruby's website"
+  title = "hoshdodii"
   [params.author]
     email = "user@example.com"
     name = "Your Name"
@@ -60,3 +60,8 @@ title = "Gallery"
 [services]
   [services.rss]
     limit = 100
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
