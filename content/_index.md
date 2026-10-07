@@ -1,7 +1,7 @@
 ---
-description: An example site for hugo-theme-gallery. Images from Unsplash.
+description: This is the description of the things and Ruby's stuff here are more words An example site for hugo-theme-gallery. Images from Unsplash An example site for hugo-theme-gallery. Images from Unsplash An example site for hugo-theme-gallery. Images from Unsplash An example site for hugo-theme-gallery. Images from Unsplash An example site for hugo-theme-gallery. Images from Unsplash An example site for hugo-theme-gallery. Images from Unsplash An example site for hugo-theme-gallery. Images from Unsplash An example site for hugo-theme-gallery. Images from Unsplash An example site for hugo-theme-gallery. Images from Unsplash An example site for hugo-theme-gallery. Images from Unsplash An example site for hugo-theme-gallery. Images from Unsplash An example site for hugo-theme-gallery. Images from Unsplash An example site for hugo-theme-gallery. Images from Unsplash An example site for hugo-theme-gallery. Images from Unsplash An example site for hugo-theme-gallery. Images from Unsplash An example site for hugo-theme-gallery. Images from Unsplash An example site for hugo-theme-gallery. Images from Unsplash An example site for hugo-theme-gallery. Images from Unsplash An example site for hugo-theme-gallery. Images from Unsplash
 #lastmod: 2023-07-05
-title: Hugo Gallery
+title: Friends of Ruby
 resources:
   - src: martin-martz-wRuhOOaG-Z4-unsplash.jpg
     params:

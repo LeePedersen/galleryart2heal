@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo Gallery on Gallery</title>
+    <title>Friends of Ruby on Gallery</title>
     <link>//localhost:1313/</link>
-    <description>Recent content in Hugo Gallery on Gallery</description>
+    <description>Recent content in Friends of Ruby on Gallery</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>user@example.com (Your Name)</managingEditor>
@@ -21,7 +21,7 @@
           &lt;p&gt;Fashion and Beauty are a powerful form of self-expression. This category documents style through inspiring shots of street fashion, skincare products, avant-garde editorial photographs, and more.&lt;/p&gt;
         </description></item>
     <item>
-      <title>Artist2</title>
+      <title>Artist Two</title>
       <link>//localhost:1313/artist2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Your Name)</author>
       <guid>//localhost:1313/artist2/</guid>

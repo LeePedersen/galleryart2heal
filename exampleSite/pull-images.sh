@@ -32,7 +32,7 @@ wget --no-clobber --content-disposition --directory-prefix=content/artist-two "h
 wget --no-clobber --content-disposition --directory-prefix=content/artist-two "https://unsplash.com/photos/7gqnlnCTvlg/download?&force=true&w=1920"
 wget --no-clobber --content-disposition --directory-prefix=content/artist-two "https://unsplash.com/photos/V94CguEmeos/download?&force=true&w=1920"
 
-# Artist2
+# Artist Two
 wget --no-clobber --content-disposition --directory-prefix=content/artist2 "https://unsplash.com/photos/ZS_XuDZmxpM/download?&force=true&w=1920"
 wget --no-clobber --content-disposition --directory-prefix=content/artist2 "https://unsplash.com/photos/U7BG3FOT5r8/download?&force=true&w=1920"
 wget --no-clobber --content-disposition --directory-prefix=content/artist2 "https://unsplash.com/photos/TUzsO59UFpo/download?&force=true&w=1920"

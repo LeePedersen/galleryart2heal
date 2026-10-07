@@ -31,7 +31,5 @@
     <loc>//localhost:1313/categories/fashion/</loc>
   </url><url>
     <loc>//localhost:1313/imprint/</loc>
-  </url><url>
-    <loc>//localhost:1313/categories/nature/</loc>
   </url>
 </urlset>
