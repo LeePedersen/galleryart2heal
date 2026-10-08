@@ -2,15 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/artist1/</loc>
+    <loc>https://www.hoshdodii.com/artist1/</loc>
   </url><url>
-    <loc>http://localhost:1313/artist2/</loc>
+    <loc>https://www.hoshdodii.com/artist2/</loc>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://www.hoshdodii.com/</loc>
     <lastmod>2023-01-12T00:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>https://www.hoshdodii.com/contact/</loc>
   </url><url>
-    <loc>http://localhost:1313/imprint/</loc>
+    <loc>https://www.hoshdodii.com/imprint/</loc>
   </url>
 </urlset>

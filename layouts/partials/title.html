@@ -2,6 +2,7 @@
   <hgroup>
     <h1>{{ .Title }}</h1>
     {{ with .Params.Description }}
+      <img src="/images/monarch02.jpeg" alt="One of Ruby's sheepdogs">
       <p>{{ . | markdownify }}</p>
     {{ end }}
   </hgroup>
