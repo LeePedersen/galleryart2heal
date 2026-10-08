@@ -28,7 +28,7 @@
         <media:content url="http://localhost:1313/artist2/lilyPainting_hu_734a4e58fac1c5e5.jpeg" type="image/jpeg"/>
         <description>
           &lt;img src=&quot;http://localhost:1313/artist2/lilyPainting_hu_734a4e58fac1c5e5.jpeg&quot; /&gt;
-          &lt;p&gt;Through photography, the beauty of Mother Artist Two can be frozen in time. This category celebrates the magic of our planet and beyond — from the immensity of the great outdoors, to miraculous moments in your own backyard.&lt;/p&gt;
+          &lt;p&gt;This is a description of artist two and why they want their art here.&lt;/p&gt;
         </description></item>
   </channel>
 </rss>

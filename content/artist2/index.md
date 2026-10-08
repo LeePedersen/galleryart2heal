@@ -1,5 +1,5 @@
 ---
-description: Through photography, the beauty of Mother Artist Two can be frozen in time. This category celebrates the magic of our planet and beyond — from the immensity of the great outdoors, to miraculous moments in your own backyard.
+description: This is a description of artist two and why they want their art here.
 menus: "main"
 title: Artist Two
 categories: ["artist2"]
