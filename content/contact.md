@@ -7,4 +7,4 @@ menu:
     weight: 90
 ---
 
-Contact email@email.com if you are interested in donating your art to be a part of this project.
+Contact contact@hoshdodii.com if you are interested in donating your art to be a part of this project.

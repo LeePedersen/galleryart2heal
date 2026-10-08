@@ -6,18 +6,18 @@
     <description>Recent content in Artist2 on Gallery</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>user@example.com (Your Name)</managingEditor>
-    <webMaster>user@example.com (Your Name)</webMaster>
+    <managingEditor>contact@hoshdodii.com (Art2Heal)</managingEditor>
+    <webMaster>contact@hoshdodii.com (Art2Heal)</webMaster>
     <copyright>© Your Name</copyright><atom:link href="http://localhost:1313/categories/artist2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Artist Two</title>
       <link>http://localhost:1313/artist2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Your Name)</author>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contact@hoshdodii.com (Art2Heal)</author>
       <guid>http://localhost:1313/artist2/</guid>
         <media:content url="http://localhost:1313/artist2/lilyPainting_hu_734a4e58fac1c5e5.jpeg" type="image/jpeg"/>
         <description>
           &lt;img src=&quot;http://localhost:1313/artist2/lilyPainting_hu_734a4e58fac1c5e5.jpeg&quot; /&gt;
-          &lt;p&gt;Through photography, the beauty of Mother Artist Two can be frozen in time. This category celebrates the magic of our planet and beyond — from the immensity of the great outdoors, to miraculous moments in your own backyard.&lt;/p&gt;
+          &lt;p&gt;This is a description of artist two and why they want their art here.&lt;/p&gt;
         </description></item>
   </channel>
 </rss>

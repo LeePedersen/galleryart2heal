@@ -6,14 +6,14 @@
     <description>Recent content in Friends of Ruby on Gallery</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>user@example.com (Your Name)</managingEditor>
-    <webMaster>user@example.com (Your Name)</webMaster>
+    <managingEditor>contact@hoshdodii.com (Art2Heal)</managingEditor>
+    <webMaster>contact@hoshdodii.com (Art2Heal)</webMaster>
     <copyright>© Your Name</copyright>
     <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Artist One</title>
       <link>http://localhost:1313/artist1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Your Name)</author>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contact@hoshdodii.com (Art2Heal)</author>
       <guid>http://localhost:1313/artist1/</guid>
         <media:content url="http://localhost:1313/artist1/lilyPainting_hu_734a4e58fac1c5e5.jpeg" type="image/jpeg"/>
         <description>
@@ -23,7 +23,7 @@
     <item>
       <title>Artist Two</title>
       <link>http://localhost:1313/artist2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Your Name)</author>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contact@hoshdodii.com (Art2Heal)</author>
       <guid>http://localhost:1313/artist2/</guid>
         <media:content url="http://localhost:1313/artist2/lilyPainting_hu_734a4e58fac1c5e5.jpeg" type="image/jpeg"/>
         <description>

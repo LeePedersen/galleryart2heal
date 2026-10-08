@@ -269,7 +269,7 @@ Use the `socialIcons` configuration key to add social icons on the bottom of eac
     instagram = "https://www.instagram.com/"
     github = "https://github.com/nicokaiser/hugo-theme-gallery/"
     youtube = "https://www.youtube.com/"
-    email = "mailto:user@example.com"
+    email = "mailto:contact@hoshdodii.com"
     linkedin = "https://linkedin.com/"
 ```
 
