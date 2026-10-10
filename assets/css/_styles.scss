@@ -2,6 +2,12 @@ html {
   height: 100%;
 }
 
+@media only screen and (max-width: 1000px) {
+  body {
+    background-image: none !important;
+  }
+}
+
 body {
   display: flex;
   flex-direction: column;
@@ -157,7 +163,7 @@ hgroup {
     line-height: 1.5556;
     text-wrap: balance;
     text-align: center;
-    padding-left: 15%;
+    // padding-left: 15%;
   }
 
   // .coverdog {
