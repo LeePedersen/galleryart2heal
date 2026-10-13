@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Imprint
 rss_ignore: true
 layout: prose
@@ -7,4 +7,4 @@ menu:
     weight: 1
 ---
 
-(Put your imprint here)
+(Put your imprint here) -->
